@@ -23,5 +23,5 @@ The maximum a posteriory estimation (MAP) is a lower theoretical bound for the f
 <img src="./fig/new_setup.png" width="179">
 
 The several classes of linear transforms with orthogonal, overcomplete and undercomplete transform matrices followed by a non-linear sparsification and quantization operators have been investigated.
-It was demonstrated the usefulness of injecting side information into the optimization formulation of advanced recovering technique such as gradient descent, its momentum acceleration and approximate message passing formulations.
+It was demonstrated the usefulness of injecting side information into the optimization formulation of advanced recovering technique such as gradient descent, its momentum acceleration and approximate message passing.
 I have been demonstrated how these algorithms achieve a lower theoretical bound on the accuracy of recovery.
