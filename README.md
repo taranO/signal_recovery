@@ -25,3 +25,8 @@ The maximum a posteriory estimation (MAP) is a lower theoretical bound for the f
 The several classes of linear transforms with orthogonal, overcomplete and undercomplete transform matrices followed by a non-linear sparsification and quantization operators have been investigated.
 It was demonstrated the usefulness of injecting side information into the optimization formulation of advanced recovering technique such as gradient descent, its momentum acceleration and approximate message passing.
 I have been demonstrated how these algorithms achieve a lower theoretical bound on the accuracy of recovery.
+
+# Code 
+
+1) rate_distortion.m - shows the accuracy of recovery in terms of Shannon rate-distortion theory;
+2) convergence_rate.m - compares the convergence rate of the considered algorithms.
