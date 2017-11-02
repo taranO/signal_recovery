@@ -19,5 +19,5 @@ The Shannon rate-distortion function is a lower theoretical bound for the formul
 
 The maximum a posteriory estimation (MAP) is a lower theoretical bound for the for this type of problems.
 
-3) New set up: a joint problem of recovering a generic signal x from sparsified and quantized measurements y = Q(\phi(Ax)) with a generic matrix A, a sparsification operator \phi(.), quantization Q(.) and with side information x0.
+3) New set up: a joint problem of recovering a generic signal x from sparsified and quantized measurements y = Q(phi(Ax)) with a generic matrix A, a sparsification operator phi(.), quantization Q(.) and with side information x0.
 <img src="./fig/new_setup.png" width="179">
