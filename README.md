@@ -5,8 +5,11 @@
 1) The problem of recovering a signal x from a linear transform followed by element-wise non-linear measurements arises in a wide range of problems in signal processing, machine learning and communications.
 <img src="./fig/recovery.png" width="180">
 The transform matrix can be either 
+
 - undercomplete (for example, in the case of compressive sensing problems);
+
 - orthonormal (for example, in the case of comression tasks);
+
 - overcomplete (for example, in the case of problems related with retrieval).
 
 The Shannon rate-distortion function is a lower theoretical bound for the formulated problem.
